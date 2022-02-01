@@ -1,0 +1,77 @@
+@charset "UTF-8";
+body{
+	font-family: 'Sriracha', cursive;
+	margin: 0 0 2em;
+	display: block;
+	border-left: orange 5px solid;
+	border-right: orange 5px solid;
+	border-bottom: orange 20px solid;
+	border-bottom: orange 20px solid;
+}
+.titulo{
+	text-align: center;
+	background-color: orange;
+	padding: 1px;
+	margin: 0;
+	color: white;
+}
+.nav{
+	background-color: lightblue;
+	text-align: justify;
+	padding-left: 5%;
+	padding-top: 1%;
+
+}
+.INICIO{
+	border: black 1px solid;
+	position: relative;
+	bottom: 0.9em;
+}
+.PRODUCTOS{
+	border: black 1px solid;
+	position: relative;
+	bottom: 0.9em;
+}
+.EMPLEADOS{
+	border: black 1px solid;
+	position: relative;
+	bottom: 0.9em;
+}
+.INSTITUTO{
+	border: black 1px solid;
+	position: relative;
+	bottom: 0.9em;
+}
+.texto_1{
+	border-color: blue white blue;
+	border-width: 20px;
+	border-style: solid none;
+	color: blue;
+}
+.texto_2{
+	border-color: red white red;
+	border-width: 20px;
+	border-style: solid none;
+	color: red;
+}
+.stevejobs{
+	float: left;
+	margin-right: 5px;
+	margin-bottom: 5px;
+}
+.makintosh{
+	float: right;
+	margin-left: 5px;
+	margin-bottom: 5px;
+}
+
+.fondo{
+	background-color: lightblue;
+}
+.final{
+	background-color: coral;
+	text-align: center;
+}
+.amarillo{
+	background-color: yellow;
+}

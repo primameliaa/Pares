@@ -1,0 +1,65 @@
+@charset "UTF-8";
+body{
+	font-family: 'Sriracha', cursive;
+	margin: 0 0 2em;
+	display: block;
+	border-right: orange 5px solid;
+	border-left: orange 5px solid;
+	border-bottom: orange 20px solid;
+	border-bottom: orange 20px solid;
+	background-color: orange;
+}
+.titulo{
+	text-align: center;
+	background-color: orange;
+	padding: 1px;
+	margin: 0;
+	color: white;
+}
+.nav{
+	background-color: lightblue;
+	text-align: justify;
+	padding-left: 5%;
+	padding-top: 1%;
+
+}
+.home{
+	border: black 1px solid;
+	position: relative;
+	bottom: 0.9em;
+}
+.productos{
+	border: black 1px solid;
+	position: relative;
+	bottom: 0.9em;
+}
+.empleados{
+	border: black 1px solid;
+	position: relative;
+	bottom: 0.9em;
+}
+.instituto{
+	border: black 1px solid;
+	position: relative;
+	bottom: 0.9em;
+}
+.main{
+	background-color: orange;
+}
+ul {
+  list-style-type: katakana-iroha;
+}
+.borde{
+	background-color: white;
+	border-right: orange 5px solid;
+	border-left: orange 50px solid;
+	border-bottom: orange 20px solid;
+	border-bottom: orange 20px solid;
+}
+.fin{
+	background-color: coral;
+	text-align: center;
+}
+.yellow{
+	background-color: yellow;
+}
